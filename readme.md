@@ -1,12 +1,74 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# Alexander Schreiner - Die digitale Entmündigung (2026)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.avif)
+![Alexander Schreiner - Die digitale Entmündigung (2026)](cover.avif)
 
-TODO_BOOK_STORE_URL
+https://www.amazon.de/dp/3985844224
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Die digitale Entmündigung:
+Daten, Vermögen, Selbstbestimmung.
+Wie digitale ID, Big Tech und Banken sie dir nehmen - und 47 Hacks, sie zurückzuholen.
+
+Alexander Schreiner (Autor)
+
+Wann hast du zuletzt etwas online erledigt, ohne dich auszuweisen?
+Dich anzumelden? Identifiziert zu werden?
+
+Das, was die EU als Komfort tarnt,
+ist der größte Eingriff in deine Selbstbestimmung seit Generationen.
+
+Am 2. Januar 2027 startet die EU Digital Identity Wallet – der digitale Personalausweis,
+ohne den künftig kaum noch ein Behördengang, ein Bankkonto oder ein Login funktionieren soll.
+52 Prozent der Deutschen haben noch nie davon gehört.
+
+Parallel dazu läuft der digitale Euro in der Pilotphase,
+die elektronische Patientenakte ist bereits da,
+Chatkontrolle und Klarnamenpflicht stehen vor der Tür.
+
+Schritt für Schritt entsteht ein System,
+in dem deine Daten erfasst, dein Geld kontrolliert und deine Meinung zum Risiko wird.
+
+Was Orwell „Gedankenverbrechen“ nannte, sind heute Klarnamenpflicht und Meldung bei staatlich finanzierten Meldestellen –
+und kann strafrechtliche Konsequenzen haben, auch wenn die Äußerung eigentlich legal ist.
+
+Die meisten Bücher zu diesem Thema beschreiben nur das Problem.
+Dieses Buch zeigt dir, was du jetzt konkret tun kannst – Schritt für Schritt,
+mit Anleitungen, die heute funktionieren und die du an einem Wochenende umsetzen kannst.
+
+**In 47 erprobten Hacks lernst du:**
+
+- Wie du deine Verbindungen, Geräte und sozialen Profile so absicherst,
+  dass du keine verwertbaren Spuren mehr hinterlässt.
+- Wie du eine getrennte Online-Identität aufbaust und alte Daten aus dem Netz zurückholst – inklusive deinem „Recht auf Vergessenwerden“ bei Google.
+- Wie du dein Vermögen mit Bitcoin, Edelmetallen und internationalen Banken so aufstellst,
+  dass keine zentrale Stelle den Zugriff darauf verweigern kann.
+- Wie du der elektronischen Patientenakte gezielt Grenzen setzt, ohne den Komplettausstieg zu wagen.
+- Welche Länder, Konten und Lebensmodelle dir auch dann Freiheit lassen,
+  wenn die digitale ID irgendwann verpflichtend wird.
+
+Geschrieben für alle, die Familie, Vermögen oder einfach ihre Privatsphäre schützen wollen,
+ohne sich gleich aus dem modernen Alltag zu verabschieden.
+Kein IT-Studium nötig.
+
+Inklusive Videoanleitungen zu den zentralen Hacks – per QR-Code direkt aus dem Buch abrufbar.
+
+*„Du hast mehr Einfluss auf dein Leben, als dir erzählt wird. Dieses Buch zeigt dir, wie du ihn nutzt.“* – Alexander Schreiner
+
+- Herausgeber: Edition Zeitfragen
+- Erscheinungstermin: 16. November 2026
+- Auflage: 1.
+- Sprache: Deutsch
+- Seitenzahl der Print-Ausgabe: 128 Seiten
+- ISBN-10: 3985844224
+- ISBN-13: 9783985844227
+- Format: Taschenbuch
+- Abmessungen: 21 x 14.8 x 1.2 cm
+- Amazon Bestseller-Rang:
+  - Nr. 16.934 in Bücher
+  - Nr. 5 in Leben & Arbeiten im Ausland
+  - Nr. 8 in Finanzpolitik (Bücher)
+  - Nr. 15 in Wirtschaftspolitik (Bücher)
 
 </blockquote>
 
@@ -20,11 +82,11 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/alexander-schreiner-die-digitale-entmuendigung-2026
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/alexander-schreiner-die-digitale-entmuendigung-2026
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/alexander-schreiner-die-digitale-entmuendigung-2026
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/alexander-schreiner-die-digitale-entmuendigung-2026
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/alexander-schreiner-die-digitale-entmuendigung-2026
 
 
 
