@@ -80,6 +80,12 @@ Inklusive Videoanleitungen zu den zentralen Hacks – per QR-Code direkt aus dem
 magnet:?xt=urn:btih:dfc590188a99a7cd87b59b8dfc32e0192402447a&dn=alexander.schreiner.die.digitale.entmuendigung.2026.600dpi.jpeg.german.book.scan&xl=273846169&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
+### alexander.schreiner.die.digitale.entmuendigung.2026.german.book.videos
+
+```
+magnet:?xt=urn:btih:7d519c66c1aa30c84d8cdbcf72483ec909fd3aba&dn=alexander.schreiner.die.digitale.entmuendigung.2026.german.book.videos&xl=134143036&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
+```
+
 ## mirrors
 
 - https://github.com/milahu/alexander-schreiner-die-digitale-entmuendigung-2026
